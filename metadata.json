@@ -1,0 +1,7 @@
+{
+  "name": "MathMind AI Calculator",
+  "description": "A high-performance scientific calculator integrated with Gemini AI for step-by-step problem solving and function visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
